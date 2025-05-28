@@ -1,0 +1,9 @@
+StudentID,Name,Subject,Score,Grade,Attendance (%),Result
+108,Helen,Science,95,A,99,Pass
+103,Charlie,Science,93,A,98,Pass
+106,Frank,Math,90,A,97,Pass
+101,Alice,Math,88,B,95,Pass
+105,Eva,Science,85,B,90,Pass
+102,Bob,Math,76,C,82,Pass
+107,Grace,Science,72,C,88,Fail
+104,David,Math,65,D,70,Fail
